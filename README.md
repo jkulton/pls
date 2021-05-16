@@ -1,6 +1,6 @@
 # pls
 
-A utility cli tool with a grab bag of commands.
+A box of CLI utilities.
 
 ## Commands
 
