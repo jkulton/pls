@@ -6,9 +6,9 @@ A utility cli tool with a grab bag of commands.
 
 | Command | Description |
 |------|-------------|
-| `downcase` | Downcases whatever follows the command |
-| `sha256` | Gets the SHA256 digest of the string following the command |
-| `upcase` | Upcases whatever follows the command |
+| `downcase` | Returns a downcase representation of whatever is passed in args |
+| `sha256` | Returns hexidecimal representation of SHA256 for whatever is passed in args |
+| `upcase` | Returns an upcase representation of whatever  is passed in args|
 | `uuid` | Returns a random UUID v4 |
 | `version` | Returns the version of pls |
 
