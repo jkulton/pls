@@ -6,11 +6,11 @@ A utility cli tool with a grab bag of commands.
 
 | Command | Description |
 |------|-------------|
-| downcase | Downcases whatever follows the command |
-| sha256 | Gets the SHA256 digest of the string following the command |
-| upcase | Upcases whatever follows the command |
-| uuid | Returns a random UUID v4 |
-| version | Returns the version of pls |
+| `downcase` | Downcases whatever follows the command |
+| `sha256` | Gets the SHA256 digest of the string following the command |
+| `upcase` | Upcases whatever follows the command |
+| `uuid` | Returns a random UUID v4 |
+| `version` | Returns the version of pls |
 
 ## Examples
 
