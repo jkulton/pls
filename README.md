@@ -24,7 +24,7 @@ $ pls downcase THIS should be downCASED
 this should be downcased
 ```
 
-Like most Unix-like commands the output of pls can be piped to other places.
+Like most Unix-like commands the output of pls can be redirected elsewhere.
 
 ```console
 $ pls uuid >> output.txt
